@@ -8,7 +8,10 @@ I designed this page in Adobe Photoshop and coded it using HTML and CSS. The pur
 This page is targeted toward school security. Selling the concept of insalling security cameras, biometric locks, GPS Trackers for school security vehicles as well as custom solutions for unique security needs.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> gh-pages
 =======
 >>>>>>> gh-pages
 ## [View the page](-copy link from hithub-)
