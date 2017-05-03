@@ -1,5 +1,5 @@
 # BrickHouse Security: School Security Page
-web page design for school secuirty services provided by BrickHouse Security
+## Web page design for school secuirty services provided by BrickHouse Security
 
 I work for BrickHouse Security, and this is one of my projects I am publishing here on GitHub. I want to showcase my ability to code as well as design. 
 
