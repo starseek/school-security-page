@@ -6,3 +6,5 @@ I work for BrickHouse Security, and this is one of my projects I am publishing h
 I designed this page in Adobe Photoshop and coded it using HTML and CSS. The purpose of tis page is to generate new subscriptions and help promote BrickHouse Security B2B products and services. 
 
 This page is targeted toward school security. Selling the concept of insalling security cameras, biometric locks, GPS Trackers for school security vehicles as well as custom solutions for unique security needs.
+
+## [View the page](-copy link from hithub-)
